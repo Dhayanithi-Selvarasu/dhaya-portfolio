@@ -13,7 +13,7 @@ export default function Hero() {
           <div className="mb-8 animate-float">
             <div className="w-52 h-52 mx-auto rounded-full bg-gradient-to-br from-blue-700 to-cyan-700 p-1 shadow-xl">
   <img
-    src="/spider.jpg"
+    src="/Resume.png"
     alt="My Profile"
     className="w-full h-full rounded-full object-cover bg-white"
   />

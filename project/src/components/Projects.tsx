@@ -15,7 +15,7 @@ export default function Projects() {
       title: 'Task Management App',
       description: 'Collaborative task management tool with real-time updates, team features, and project tracking.',
       image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['Next.js', 'TypeScript', 'Supabase', 'Tailwind'],
+      tags: ['Next.js', 'TypeScript', 'Tailwind'],
       githubUrl: 'https://github.com',
       liveUrl: 'https://example.com',
       stars: 189,
@@ -39,23 +39,25 @@ export default function Projects() {
       stars: 312,
     },
     {
-      title: 'Fitness Tracking App',
-      description: 'Mobile-first fitness app with workout plans, progress tracking, and nutrition guidance.',
-      image: 'https://images.pexels.com/photos/4162449/pexels-photo-4162449.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['React Native', 'Firebase', 'Redux', 'Expo'],
-      githubUrl: 'https://github.com',
-      liveUrl: 'https://example.com',
+      title: 'Moto Shoes',
+      description: 'A mobile application for ordering shoes online with a user-friendly interface and secure payment processing.',
+      image: 'https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=800',
+      tags: ['Html5', 'Css3', 'JavaScript',],
+      githubUrl: 'https://github.com/Dhayanithi-Selvarasu/shoe-shop',
+      liveUrl: 'https://motoshoes.netlify.app/',
       stars: 278,
     },
-    {
-      title: 'Cafe Ordering',
-      description: 'A café ordering system designed to save time by letting customers order smoothly while helping staff manage orders without confusion.',
-      image: 'https://images.pexels.com/photos/1591062/pexels-photo-1591062.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['Html5', 'Css3', 'JavaScript', 'Tailwind'],
-      githubUrl: 'https://github.com',
-      liveUrl: 'https://example.com',
-      stars: 421,
-    },
+ {
+  title: 'Cafe Ordering',
+  description: 'A café ordering system designed to save time by letting customers order smoothly while helping staff manage orders without confusion.',
+  image: 'https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800',
+  tags: ['Html5', 'Css3', 'JavaScript', 'Tailwind'],
+  githubUrl: 'https://github.com/Dhayanithi-Selvarasu/cafe-order',
+  liveUrl: 'https://dhayanithi-selvarasu.github.io/cafe-order/',
+  stars: 421,
+},
+
+
   ];
 
   return (
