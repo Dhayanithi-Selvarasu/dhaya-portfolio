@@ -30,12 +30,12 @@ export default function Projects() {
       stars: 156,
     },
     {
-      title: 'Social Media Dashboard',
-      description: 'Analytics dashboard for managing multiple social media accounts with insights and scheduling.',
-      image: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['Vue.js', 'Python', 'PostgreSQL', 'Redis'],
-      githubUrl: 'https://github.com',
-      liveUrl: 'https://example.com',
+      title: 'Employee Management System',
+      description: 'Employee management system for creating, reading, updating, and deleting records.',
+      image: 'https://images.pexels.com/photos/3182763/pexels-photo-3182763.jpeg?auto=compress&cs=tinysrgb&w=800',
+      tags: ['React', 'javascript', 'MySQL', 'Spring Boot'],
+      githubUrl: 'https://github.com/Dhayanithi-Selvarasu/Emp-sal',
+      liveUrl: 'https://emp-sal.netlify.app/',
       stars: 312,
     },
     {

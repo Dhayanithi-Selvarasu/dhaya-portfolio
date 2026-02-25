@@ -1,5 +1,8 @@
 import { Menu, X, Github, FileDown } from 'lucide-react';
 import { useState } from 'react';
+import resumePDF from "../assets/Dhayanithi_Resume.pdf";
+
+
 
 export default function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -49,13 +52,13 @@ export default function Navigation() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="/Dhayanithi_Resume.pdf"
-              download
-              className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
-            >
-              <FileDown className="w-4 h-4" />
-              Resume
-            </a>
+  href={resumePDF}
+  download="Dhayanithi_Resume.pdf"
+  className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+>
+  <FileDown className="w-4 h-4" />
+  Resume
+</a>
           </div>
 
           <div className="md:hidden">
