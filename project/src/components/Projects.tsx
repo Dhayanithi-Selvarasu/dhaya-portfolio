@@ -3,12 +3,12 @@ import { ExternalLink, Github, Star } from 'lucide-react';
 export default function Projects() {
   const projects = [
     {
-      title: 'E-Commerce Platform',
-      description: 'A full-featured e-commerce platform with payment integration, inventory management, and admin dashboard.',
-      image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-      githubUrl: 'https://github.com',
-      liveUrl: 'https://example.com',
+      title: 'Personal Portfolio Website',
+      description: 'A responsive portfolio website showcasing projects, skills, and contact information.',
+      image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&auto=format&fit=crop&q=80',
+      tags: ['React', 'HTML', 'CSS', 'JavaScript'],
+      githubUrl: 'https://github.com/Dhayanithi-Selvarasu/dhaya-portfolio',
+      liveUrl: 'https://dhayanithi-selvarasu.github.io/dhaya-portfolio/',
       stars: 234,
     },
     {
