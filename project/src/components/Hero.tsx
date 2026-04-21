@@ -29,7 +29,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-600 mb-8 animate-slide-up delay-100">
-            Full Stack Developer & Creative Problem Solver
+           UI/UX Designer & Full Stack Developer
           </p>
 
           <p className="text-lg text-gray-500 max-w-2xl mx-auto mb-12 animate-slide-up delay-200">

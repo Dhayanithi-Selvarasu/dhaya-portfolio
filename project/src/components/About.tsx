@@ -38,8 +38,8 @@ export default function About() {
           <div className="space-y-6">
             <h3 className="text-3xl font-bold text-gray-900">Hello! I'm Dhaya Portfolio</h3>
             <p className="text-gray-600 leading-relaxed">
-            I'm a Full Stack Developer with practical experience in frontend and backend web development.
-            I specialize in HTML5, CSS3, JavaScript, React, responsive UI design, and performance optimization.
+            Full Stack Developer & UI/UX Designer with hands-on experience in developing and designing modern web applications. 
+            Skilled in frontend and backend development, user interface design, user experience optimization, React, and responsive web design.
             </p>
             <p className="text-gray-600 leading-relaxed">
             I have experience using Java, Spring Boot, REST APIs, and MVC architecture.
