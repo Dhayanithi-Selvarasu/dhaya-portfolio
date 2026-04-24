@@ -6,7 +6,7 @@ export default function Projects() {
       title: 'Personal Portfolio Website',
       description: 'A responsive portfolio website showcasing projects, skills, and contact information.',
       image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&auto=format&fit=crop&q=80',
-      tags: ['React', 'HTML', 'CSS', 'JavaScript'],
+      tags: ['Figma', 'React', 'HTML', 'CSS', 'JavaScript'],
       githubUrl: 'https://github.com/Dhayanithi-Selvarasu/dhaya-portfolio',
       liveUrl: 'https://dhayanithi-selvarasu.github.io/dhaya-portfolio/',
       stars: 234,
@@ -16,7 +16,7 @@ export default function Projects() {
       description: 'Collaborative task management tool with real-time updates, team features, and project tracking.',
       image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800',
       tags: ['Next.js', 'TypeScript', 'Tailwind'],
-      githubUrl: 'https://github.com',
+      githubUrl: 'https://github.com/Dhayanithi-Selvarasu/Task-Management-App',
       liveUrl: 'https://example.com',
       stars: 189,
     },
@@ -25,7 +25,7 @@ export default function Projects() {
       description: 'Beautiful weather application with location-based forecasts, interactive maps, and weather alerts.',
       image: 'https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?auto=compress&cs=tinysrgb&w=800',
       tags: ['React', 'OpenWeather API', 'Chart.js', 'CSS3'],
-      githubUrl: 'https://github.com',
+      githubUrl: 'https://github.com/Dhayanithi-Selvarasu/Weather-Dashboard',
       liveUrl: 'https://example.com',
       stars: 156,
     },
@@ -51,7 +51,7 @@ export default function Projects() {
   title: 'Cafe Ordering',
   description: 'A café ordering system designed to save time by letting customers order smoothly while helping staff manage orders without confusion.',
   image: 'https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800',
-  tags: ['Html5', 'Css3', 'JavaScript', 'Tailwind'],
+  tags: ['Figma', 'Html5', 'Css3', 'JavaScript', 'Tailwind'],
   githubUrl: 'https://github.com/Dhayanithi-Selvarasu/cafe-order',
   liveUrl: 'https://dhayanithi-selvarasu.github.io/cafe-order/',
   stars: 421,
@@ -132,7 +132,7 @@ export default function Projects() {
 
         <div className="text-center mt-12">
           <a
-            href="https://github.com"
+            href="https://github.com/Dhayanithi-Selvarasu?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-all hover:scale-105 shadow-lg font-medium"
